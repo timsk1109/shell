@@ -1,0 +1,11 @@
+shell scripting
+As a devops shell scripting is used to automate my daily activities like manage infrastrutures, codes in git repo, and configuration
+management.
+nproc= cpu
+free= ram
+top= shows all processes that are running.
+
+set -x debug mode. this command in script shows the 
+set -e this terminate the excuting a script once an error occurs.
+set -o piped failed this is used to command the script to run when a pipe is used so long the last command is excuted.
+set -exo
