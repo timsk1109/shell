@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#Author- Timothy
+#date- 11-14-23
+#description- Running processes
+
+command=ps-ef
+
+if command -v $command
+then
+    echo "this is nice
+fi
